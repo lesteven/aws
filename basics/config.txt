@@ -1,0 +1,6 @@
+
+# add fields and change config.txt to confix.sh
+
+keyid=
+accesskey=
+region=
