@@ -1,5 +1,5 @@
 
-# add fields and change config.txt to confix.sh
+# add fields and change config.txt to aws.config
 
 keyid=
 accesskey=
